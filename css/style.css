@@ -19,3 +19,7 @@ hr{
 .cname{
   font-size: x-large;
 }
+
+p{
+  word-break:break-all;
+}
