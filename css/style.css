@@ -1,0 +1,21 @@
+hr{
+  background-color: #2d3c49;
+  height:3px;
+  border:none;
+}
+
+.heading{
+  color: #7d97ad;
+}
+
+.left{
+  margin-top: 170px;
+}
+
+.ptitle{
+  font-size: xx-large;
+}
+
+.cname{
+  font-size: x-large;
+}
